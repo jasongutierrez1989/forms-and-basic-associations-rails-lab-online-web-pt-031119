@@ -46,7 +46,7 @@ class SongsController < ApplicationController
   end
 
   def
-  end
+  def def
 
   private
 
